@@ -1,0 +1,26 @@
+select {
+
+ width: 130px;
+ height: 40px;
+ border-radius: 8px;
+ background: rgb(173, 180, 214);
+/* padding-left: 10px; */
+/* margin-left: 770px; */
+display: flex;
+justify-content: flex-end;
+}
+
+.addtask {
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    color: #fff;
+    background: #5c6ed6;
+    border: none;
+    font-size: 15px;
+}
+
+.btndiv {
+    display: flex;
+    justify-content: space-between;
+}

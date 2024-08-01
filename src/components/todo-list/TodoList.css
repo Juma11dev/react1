@@ -1,0 +1,9 @@
+.list {
+
+    overflow: scroll;
+    width: 780px;
+    height: 340px;
+    background: rgb(185, 192, 224);
+    border-radius: 25px;
+    margin-top: 20px;
+}
